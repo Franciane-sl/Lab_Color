@@ -103,3 +103,106 @@ main h2{
     background-color:#DCDCDC;
     color: #000;
 }
+
+.azul .card:nth-child(1){
+    background-color: #CDE9FF;
+    color: #000;
+}
+
+.azul .card:nth-child(2){
+    background-color: #75BFFF;
+    color: #000;
+}
+
+.azul .card:nth-child(3){
+    background-color: #1a73e8 ;
+    color: #000;
+}
+
+.azul .card:nth-child(4){
+    background-color: #0B3F91 ;
+    color: #000;
+}
+
+.verde .card:nth-child(1){
+    background-color: #D9FFEE ;
+    color: #000;
+}
+
+.verde .card:nth-child(2){
+    background-color: #7FE9B3 ;
+    color: #000;
+}
+
+.verde .card:nth-child(3){
+    background-color: #32C17C ;
+    color: #000;
+}
+
+.verde .card:nth-child(4){
+    background-color: #1E8050 ;
+    color: #000;
+}
+
+.rosa .card:nth-child(1){
+    background-color: #FFD7E8 ;
+    color: #000;
+}
+
+.rosa .card:nth-child(2){
+    background-color: #FFA4C9;
+    color: #000;
+}
+
+.rosa .card:nth-child(3){
+    background-color: #E25488 ;
+    color: #000;
+}
+
+.rosa .card:nth-child(4){
+    background-color: #B02F63 ;
+    color: #000;
+}
+
+.vermelho .card:nth-child(1){
+    background-color:#FFE0E0;
+    color: #000;
+}
+
+.vermelho .card:nth-child(2){
+    background-color:#FF8A8A ;
+    color: #000;
+}
+
+.vermelho .card:nth-child(3){
+    background-color: #E53935 ;
+    color: #000;
+}
+
+.vermelho .card:nth-child(4){
+    background-color: #B71C1C;
+    color: #000;
+}
+
+.marrom .card:nth-child(1){
+    background-color: #EED7C5;
+    color: #000;
+}
+
+.marrom .card:nth-child(2){
+    background-color: #C49A6C;
+    color: #000;
+}
+
+.marrom .card:nth-child(3){
+    background-color:  #8C5A2B;
+    color: #000;
+}
+
+.marrom .card:nth-child(4){
+    background-color: #4A2E14 ;
+    color: #000;
+}
+
+
+
