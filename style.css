@@ -196,13 +196,123 @@ main h2{
 
 .marrom .card:nth-child(3){
     background-color:  #8C5A2B;
-    color: #000;
+    
 }
 
 .marrom .card:nth-child(4){
     background-color: #4A2E14 ;
+
+}
+
+.preto .card:nth-child(1){
+    background-color: #3A3A3A;
+    
+}
+
+.preto .card:nth-child(2){
+    background-color: #2A2A2A;
+    
+}
+
+.preto .card:nth-child(3){
+    background-color: #1A1A1A ;
+    
+}
+
+.preto .card:nth-child(4){
+    background-color: #000000 ;
+    
+}
+
+.cinza .card:nth-child(1){
+    background-color:#E0E0E0;
     color: #000;
 }
+
+.cinza .card:nth-child(2){
+    background-color:  #BDBDBD;
+    color: #000;
+}
+
+.cinza .card:nth-child(3){
+    background-color:  #8D8D8D;
+    color: #000;
+}
+
+.cinza .card:nth-child(4){
+    background-color: #4A4A4A;
+    color: #000;
+}
+
+.laranja .card:nth-child(1){
+    background-color:#FFE4C1;
+    color: #000;
+}
+
+.laranja .card:nth-child(2){
+    background-color: #FFB472;
+    color: #000;
+}
+
+.laranja .card:nth-child(3){
+    background-color: #FF8A00;
+    color: #000;
+}
+
+.laranja .card:nth-child(4){
+    background-color: #CC6C00;
+    color: #000;
+}
+
+.neon .card:nth-child(1){
+    background-color: #39F14F;
+    color: #000;
+}
+
+.neon .card:nth-child(2){
+    background-color: #00F0FF;
+    color: #000;
+}
+
+.neon .card:nth-child(3){
+    background-color: #FF00F7;
+    color: #000;
+}
+
+.neon .card:nth-child(4){
+    background-color: #F7FF00;
+    color: #000;
+}
+
+.roxo .card:nth-child(1){
+    background-color: #E6D7FF;
+    color: #000;
+}
+
+.roxo .card:nth-child(2){
+    background-color: #B896FF;
+    color: #000;
+}
+
+.roxo .card:nth-child(3){
+    background-color: #8A56E2;
+    color: #000;
+}
+
+.roxo .card:nth-child(4){
+    background-color: #522A91;
+    color: #000;
+}
+
+footer{
+    margin-top: 40px;
+    padding: 20px;
+    text-align: center;
+    color: #555;
+}
+
+
+
 
 
 
