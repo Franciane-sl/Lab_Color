@@ -311,8 +311,75 @@ footer{
     color: #555;
 }
 
+.msg-copiado{
+    position: fixed;
+    bottom: 20px;
+    left: 50%;
+    transform: translateX(-50%);
+    background: #222;
+    color: #fff;
+    padding: 10px 18px;
+    border-radius: 8px;
+    font-weight: 600;
+    opacity: 0;
+    pointer-events: none;
+    transition: opacity 0.3s ease;
+    z-index: 9999;
+}
 
+.msg-copiado.show{
+    opacity: 1 ;
+}
 
+.dark-btn{
+    margin-left: 15px;
+    padding: 8px 12px;
+    font-size: 1.2rem;
+    border-radius: 8px;
+    border: none;
+    background: #e2e2e2;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.dark-btn:hover{
+    transform: scale(1.1) ;
+}
+
+.copiado{
+    outline: 3px solid #fff;
+    box-shadow: 0 0 10px #fff;
+    transform: scale(1.07);
+}
+ /*===Dark-Mode===*/
+
+ body.dark{
+    background: #121212;
+    color: #f0f0f0;
+}
+
+body.dark header{
+    background: #1d1d1d;
+    border-bottom: 1px solid #444;
+}
+
+body.dark footer{
+    color: #bbb
+}
+
+body.dark .card{
+    text-shadow: none;
+    border: 1px solid #ffffff33;
+}
+
+body.dark main h2{
+    color: #ffffff;
+}
+
+body.dark .msg-copiado{
+    background: #ffffff;
+    color: #000000;
+}
 
 
 
